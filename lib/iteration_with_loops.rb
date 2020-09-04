@@ -4,7 +4,7 @@ def join_nested_strings(src)
   
   src = [
     ["The ", 7, "quick "],
-    ["brown" , 9, "fox "],
+    ["brown " , 9, "fox "],
     ["studied ", 120, 111, "Ruby"]
     ]
   join_nested_strings = [
