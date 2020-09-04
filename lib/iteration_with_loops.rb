@@ -3,9 +3,9 @@ def join_nested_strings(src)
   # Combine all Strings present in the AoA into a single value and return it
   
   src = [
-    ["The", 7, "quick"],
-    ["brown", 9, "fox"],
-    ["studied", 120, 111, "Ruby"]
+    ["The ", 7, "quick "],
+    ["brown" , 9, "fox "],
+    ["studied ", 120, 111, "Ruby"]
     ]
   join_nested_strings = [
     src[0][0], 
