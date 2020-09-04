@@ -15,5 +15,5 @@ def join_nested_strings(src)
     src[2][0],
     src[2][3]
     ]
-  
+  p join_nested_strings.join 
 end
